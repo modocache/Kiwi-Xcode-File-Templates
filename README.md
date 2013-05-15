@@ -1,2 +1,2 @@
-# Kiwi Xcode Templates
+# Kiwi Xcode File Templates
 

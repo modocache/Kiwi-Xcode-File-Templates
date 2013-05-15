@@ -13,7 +13,7 @@
     <key>DefaultCompletionName</key>
 	<string>NewKiwiSpec</string>
 	<key>Description</key>
-	<string>Kiwi spec file</string>
+	<string>A Kiwi spec file.</string>
 	<key>Kind</key>
 	<string>Xcode.IDEKit.TextSubstitutionFileTemplateKind</string>
 	<key>MainTemplateFile</key>
@@ -21,6 +21,6 @@
 	<key>SortOrder</key>
 	<integer>1</integer>
 	<key>Summary</key>
-	<string>Spec class of Kiwi BDD framework</string>
+	<string>A spec file for use with the Kiwi BDD framework.</string>
 </dict>
 </plist>
